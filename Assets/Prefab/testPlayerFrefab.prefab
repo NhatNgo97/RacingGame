@@ -404,11 +404,11 @@ WheelJoint2D:
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
-  m_Anchor: {x: 8.493324, y: -3.437815}
+  m_Anchor: {x: 8.493323, y: -3.179622}
   m_ConnectedAnchor: {x: 0.4179909, y: 0.5053752}
   m_Suspension:
-    m_DampingRatio: 0.7
-    m_Frequency: 2
+    m_DampingRatio: 0.8
+    m_Frequency: 6
     m_Angle: 90
   m_UseMotor: 0
   m_Motor:
@@ -428,11 +428,11 @@ WheelJoint2D:
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
-  m_Anchor: {x: -7.5993357, y: -2.9797487}
+  m_Anchor: {x: -7.599337, y: -3.1733968}
   m_ConnectedAnchor: {x: 0.44467077, y: 0.4891342}
   m_Suspension:
-    m_DampingRatio: 0.7
-    m_Frequency: 2
+    m_DampingRatio: 0.9
+    m_Frequency: 6
     m_Angle: 90
   m_UseMotor: 0
   m_Motor:
