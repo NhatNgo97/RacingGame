@@ -78,7 +78,7 @@ public class carController : MonoBehaviour {
 
 		if (Input.GetAxisRaw ("Horizontal") != 0) {
 
-			GetComponent<Rigidbody2D> ().AddTorque (carRotationSpeed * Input.GetAxisRaw ("Horizontal") * -1);
+			GetComponent<Rigidbody2D> ().AddTorque (carRotationSpeed * Input.GetAxisRaw ("Horizontal") * -1 * Time.deltaTime);
 
 		}
 
